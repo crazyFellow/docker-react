@@ -1,3 +1,4 @@
+NOTE - If you want to test the full deployment flow using Travis and Beanstalk then delete the Docker-Compose file. That is actually being used by Beanstalk rather than dockerfile and it is causing issues.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
